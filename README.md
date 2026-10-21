@@ -45,4 +45,4 @@ Build on this foundation by introducing training data, target values, and a loss
 
 ## Project status
 
-Phase 1 — First artificial neuron: implementation and testing completed, pending final understanding review and documentation verification.
+Phase 1 — First artificial neuron: implementation and testing completed. Phase 2 to be started.
